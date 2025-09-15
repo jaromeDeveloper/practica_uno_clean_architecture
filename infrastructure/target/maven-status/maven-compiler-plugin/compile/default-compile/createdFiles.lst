@@ -1,0 +1,3 @@
+com\example\infrastructure\adapters\ProductRepositoryAdapter.class
+com\example\infrastructure\jpa\ProductJpaRepository.class
+com\example\infrastructure\jpa\ProductEntity.class

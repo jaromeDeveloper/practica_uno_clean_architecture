@@ -1,0 +1,7 @@
+com\example\application\usecase\ListProductsQuery.class
+com\example\application\usecase\CreateProductCommand.class
+com\example\application\usecase\UpdateProductCommand.class
+com\example\application\usecase\DeleteProductCommand.class
+com\example\application\usecase\GetProductQuery.class
+com\example\application\dto\ProductDTO.class
+com\example\application\service\ProductService.class
