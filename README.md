@@ -1,7 +1,8 @@
 # Clean Architecture CRUD (Java 17 + Spring Boot + H2)
 
 Proyecto de ejemplo siguiendo **Clean Architecture** con 4 capas y CRUD de `Product`.
-
+jarome.developer@gmail.com
+Jorge Rodriguez
 ## Capas y módulos
 
 ```
